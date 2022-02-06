@@ -42,3 +42,4 @@ int main()
   output(x,a,y);
   return 0;
 }
+

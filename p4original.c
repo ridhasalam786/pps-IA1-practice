@@ -44,3 +44,4 @@ int main()
   output(x,&a[x],y);
   return 0;
 }
+

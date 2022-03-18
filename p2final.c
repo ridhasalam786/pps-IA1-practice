@@ -2,10 +2,10 @@
 
 int input()
 {
-  int a;
+  int n;
   printf ("Enter a number: \t");
-  scanf ("%d",&a);
-  return a;
+  scanf ("%d",&n);
+  return n;
 }
 
 int cmp(int a,int b,int c)

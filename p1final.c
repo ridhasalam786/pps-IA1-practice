@@ -13,7 +13,7 @@ void add(int a,int b,int *sum)
 
 void output(int a,int b,int sum)
 {
-  printf ("Sum of %d+%d is %d",a,b,sum);
+  printf ("%d+%d is %d",a,b,sum);
 }
 
 int main()
@@ -24,3 +24,4 @@ int main()
   output(x,y,z);
   return 0;
 }
+

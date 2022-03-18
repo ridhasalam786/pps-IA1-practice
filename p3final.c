@@ -26,10 +26,9 @@ void output(int n,int sum)
 
 int main()
 {
-  int x,y;
-  x=input_n();
-  y=sum_n(x);
+  int a,b;
+  a=input_n();
+  b=sum_n(x);
   output(x,y);
   return 0;
 }
-
